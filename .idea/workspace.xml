@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e70b52f3-e08c-413e-a8de-81f387d3e975" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ThietKeMenuChoUngDung/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HienThiCacLoaiHinh/ShowTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Menu">
+  <component name="RunManager" selected="Application.ShowTypes">
     <configuration name="CalculateLoanInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TinhLaiVay.CalculateLoanInterest" />
       <module name="LoopToJava" />
@@ -85,8 +86,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShowTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HienThiCacLoaiHinh.ShowTypes" />
+      <module name="LoopToJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HienThiCacLoaiHinh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShowTypes" />
         <item itemvalue="Application.Menu" />
         <item itemvalue="Application.CalculateLoanInterest" />
         <item itemvalue="Application.CheckPrime" />
@@ -101,7 +116,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670059631220</updated>
-      <workItem from="1670059633504" duration="2817000" />
+      <workItem from="1670059633504" duration="8789000" />
     </task>
     <servers />
   </component>
