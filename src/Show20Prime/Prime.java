@@ -7,10 +7,10 @@ public class Prime {
         Scanner scanner=new Scanner(System.in);
         System.out.println(" Number-Prime-Show");
         int count=0;
-        int prime=3;
+        int prime=2;
         int number=scanner.nextInt();
         while (count!=number){
-            for (int i=2; i <prime ; ) {
+            for (int i=2; i <=prime ; ) {
                 if (prime%i==0){
                     i++;
                     prime++;
