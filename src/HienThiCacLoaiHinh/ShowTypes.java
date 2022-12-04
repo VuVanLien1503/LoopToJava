@@ -60,7 +60,7 @@ public class ShowTypes {
                                 break;
                             case 3:
                                 System.out.println("square triangle-Top-right");
-                           
+
                                 break;
                             default:
                                 System.out.println("No Menu");

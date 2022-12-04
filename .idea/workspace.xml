@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e70b52f3-e08c-413e-a8de-81f387d3e975" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HienThiCacLoaiHinh/ShowTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Show20Prime/Prime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HienThiCacLoaiHinh/ShowTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HienThiCacLoaiHinh/ShowTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ShowTypes">
+  <component name="RunManager" selected="Application.Prime">
     <configuration name="CalculateLoanInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TinhLaiVay.CalculateLoanInterest" />
       <module name="LoopToJava" />
@@ -86,6 +87,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Show20Prime.Prime" />
+      <module name="LoopToJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Show20Prime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ShowTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HienThiCacLoaiHinh.ShowTypes" />
       <module name="LoopToJava" />
@@ -101,6 +115,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prime" />
         <item itemvalue="Application.ShowTypes" />
         <item itemvalue="Application.Menu" />
         <item itemvalue="Application.CalculateLoanInterest" />
@@ -116,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670059631220</updated>
-      <workItem from="1670059633504" duration="8789000" />
+      <workItem from="1670059633504" duration="10638000" />
     </task>
     <servers />
   </component>
